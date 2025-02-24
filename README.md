@@ -1,5 +1,5 @@
 # Google Play Store Apps Analysis 📱
-## Oasisinfobyte Data Science Internship - Task
+## Oasisinfobyte Data Analytics Internship - Task
 
 ### Project Overview
 This project analyzes Google Play Store app data to uncover insights about the Android app market. The analysis includes app categories, ratings, pricing trends, and user sentiment analysis from reviews.
